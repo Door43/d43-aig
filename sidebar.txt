@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aig:home|Door43 (aig)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aig|d43-aig repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aig/archive/master.zip|d43-aig.zip]]
+
+**Recent Changes**
+{{changes>ns = aig}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aig|Ethnologue data]]
+
